@@ -6,7 +6,7 @@
     <title>array</title>
 </head>
 <body>
-    <h1> "Latihan array Chaerin" <h1>;
+    <h1> Latihan array Chaerin <h1>
         <?php
         //soal 1
         echo "<h3> Soal no 1 </h3>";
