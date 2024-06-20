@@ -40,8 +40,7 @@
         echo "<li>$adult[1]</li>";
         echo "<li>$adult[2]</li>";
         echo "<li>$adult[3]</li>";
-        echo "<li>$adult[4]</li>";
-        echo "<li>$adult[5]</li>";
+        echo "<li>$adult[4]</li>";    
         echo "</ol>";
         //soal no 3
         echo "<h3>latihan no 3</h3>";
