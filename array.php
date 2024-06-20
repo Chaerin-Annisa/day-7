@@ -72,9 +72,9 @@
         */
         $data = array(array
          ("will byers","mike wheeler","jim hopper","eleven"),
-         array("12","12","43","12"),
+         array("12","43"),
          array("will the wise","dungeon master","chief hopper","el"),
-         array("alive","alive","deceased","alive")
+         array("alive","deceased")
 );
              
 echo "Name: ".$data[0][0]. "<br>";
